@@ -503,13 +503,13 @@ header {
 @media screen and (max-width: 650px) {
   #social {
     position: fixed;
-    top: 486px;
+    top: 505px;
     right: -10px;
   }
 
   #calendar {
     position: fixed;
-    top: 540px;
+    top: 560px;
     right: -10px;
   }
 }
