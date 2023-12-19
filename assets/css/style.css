@@ -490,9 +490,11 @@ header {
 
 #news-section {
   position: relative;
+  padding-top: 50px;
 }
 
 #news-section h2 {
+  font-size: 2rem;
   position: absolute;
   top: -11%;
   left: 4%;
